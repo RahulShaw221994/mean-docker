@@ -10,6 +10,7 @@ A simple MEAN app created with Angular 8 and Docker Compose
 ### Usage
 
 ```sh
+$ cd mean-docker
 $ docker-compose up --build
 
 # Visit http://localhost:4200
